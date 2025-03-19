@@ -14,6 +14,7 @@ The schema consists of the following tables:
 - `Venues` - Tracks event locations and capacities.
 - `Catering` - Manages menu offerings.
 - `Inventory` - Maintains stock levels.
-- `Employees` - Assigns staff to events.
-- `Events` - Links customers, venues, catering, and employees.
+- `Employees` - Stores staff details, contact information, pay rate, availability and much more
+- `Events` - Centralizes event details, linking customers, venues, catering, inventory and employees
+
 
